@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp4729484.jpg);
+    background-size: cover;
+    background-position-x: 28%;
+}
+h1 {
+    text-align: center;
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 122px;
+    color: #ffffff;
+    
+}
+h4 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+      }
+      img {
+        display: block; /* Ensure the image is treated as a block element */
+        margin: 0 auto; /* Center-align the image horizontally */
+        width: 22%; /* Set the width of the image */
+        border-style: groove;
+        padding: 1%;
+        background-color: rgb(63, 63, 63);
+        border-radius: 22%;
+    }
+a.centered {
+    text-align: center;
+    display: block; 
+    color: white;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 700;
+    display: inline-block;
+    border-style: groove;
+    background-color: wheat;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#news {
+    text-align: center;
+}
